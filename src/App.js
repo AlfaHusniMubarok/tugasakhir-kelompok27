@@ -1,25 +1,56 @@
-import logo from './logo.svg';
 import './App.css';
+import { BrowserRouter, Link, Route, Switch } from "react-router-dom";
+import Home from "./Component/Home";
+import Kemeja from "./Component/Kemeja";
+import Kaos from "./Component/Kaos";
+import Jilbab from "./Component/Jilbab";
+import Celana from "./Component/Celana";
+import Rok from "./Component/Rok";
+import Outer from "./Component/Outer";
+import Sepatu from "./Component/Sepatu";
 
-function App() {
+export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+    <BrowserRouter>
+      <header>
+        <div className="title">
+          <Link className="text" to="/Home">
+            Homeㅤ
+          </Link>
+          <Link className="text" to="/Jilbab">
+            Jilbab    
+          </Link>
+          <Link className="text" to="/Kemeje">
+            Kemeja  
+          </Link>
+          <Link className="text" to="/Kaos">
+            Kaos    
+          </Link>
+          <Link className="text" to="/Outer">
+            Outer   
+          </Link>
+          <Link className="text" to="/Celana">
+            Celana    
+          </Link>
+          <Link className="text" to="/Rok">
+            Rok   
+          </Link>
+          <Link className="text" to="/Sepatu">
+            Sepatu  
+          </Link>
+        </div>
       </header>
-    </div>
+      <Switch>
+        <Route exact path="/" component={Home} />
+        <Route path="/Home" exact component={Home} />
+        <Route path="/Jilbab" exact component={Jilbab} />
+        <Route path="/Kemeja" exact component={Kemeja} />
+        <Route path="/Kaos" exact component={Kaos} />
+        <Route path="/Outer" exact component={Outer} />
+        <Route path="/Celana" exact component={Celana} />
+        <Route path="/Rok" exact component={Rok} />
+        <Route path="/Sepatu" exact component={Sepatu} />
+      </Switch>
+    </BrowserRouter>
   );
 }
-
-export default App;

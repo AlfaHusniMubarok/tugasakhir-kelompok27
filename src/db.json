@@ -1,0 +1,60 @@
+{
+    "anggota": [
+        {
+            "id": 1,
+            "nama": "Alfa Husni Mubarok",
+            "nim": "21120118130064",
+            "email": "alfahusnimubarok@gmail.com",
+            "img": "https://scontent.fsrg3-1.fna.fbcdn.net/v/t1.6435-9/56219900_2214067988685440_7547665296207642624_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=174925&_nc_eui2=AeFlAq0K10pbYuuN8zSXHyZW1YcywsvdbXbVhzLCy91tdkWkY3fjpGQ1YO6WJvoIBxh4eXi0w_lqDSgG6CGhyZ3g&_nc_ohc=LTrtqg0n2S0AX-P-n4I&_nc_ht=scontent.fsrg3-1.fna&oh=2148f12e5051c2bb392979f0d0571dfc&oe=6181AF22"
+        },
+        {
+            "id": 2,
+            "nama": "Ahmad Hufron",
+            "nim": "21120118120028",
+            "email": "ahmadhufron64@gmail.com",
+            "img": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+        }
+    ],
+    "Jilbab":[
+        {
+            "judul":"Hijab Instan Rabiah Polos",
+            "harga":"Rp. 15.000,-",
+            "img_src":"https://cf.shopee.co.id/file/50ca16a515599a747b15f883bc1b4169_tn",
+            "id":"1",
+            "deskripsi": {
+                "bahan" :"Jersey",
+                "tentang":"Hijab Instan Rabiah Bahan Jersey Motif Polos / Jilbab Polos Simpel Daily Use / Khimar Pinguin. Bahan Jersey, Nyaman dipakai, lembut, tebal, adem, tidak nerawang, halus. Memakai Pet Antem (Anti Tembem). Di sekeliling ujung jilbab bukan hanya Diobras, tetapi dijahit tepinya, sehingga rapi dan tidak mudah sobek. Ukuran : Panjang depan : +- 70 cm dan Panjang belakang  : +- 90 cm"
+            }
+        },
+        {
+            "judul":"Hijab Segiempat Bella Square",
+            "harga":"Rp. 12.000,-",
+            "img_src":"https://cf.shopee.co.id/file/02ded2dcaa6596b61a4bd3cfac64990f",
+            "id":"2",
+            "deskripsi": {
+                "bahan" :"Pollycotton",
+                "tentang":"Bahan terbuat dari Sifon Bella Square bahan lembut, adem, jatoh juga tidak gampang kusut dan mudah diatur juga terdapat serat kotak kotak sangat kecil di bagian permukaan jilbab. Ukuran 110Cm x 110Cm"
+            }
+        },
+        {
+            "judul":"Hijab Sport VOLY PET",
+            "harga":"Rp. 20.000,-",
+            "img_src":"https://cf.shopee.co.id/file/1fcd37e0f46a9acb514f1e06574e7e49",
+            "id":"3",
+            "deskripsi": {
+                "bahan" :"Jersey",
+                "tentang":"Hijab instan tinggal slup, bahan jersey, nyaman dipakai, adem, cocok untuk olahraga. Ukuran : 40 x 62cm."
+            }
+        },
+        {
+            "judul":"Hijab Bergo Maryam",
+            "harga":"Rp. 25.000,-",
+            "img_src":"https://cf.shopee.co.id/file/c6810323a3b01fab72178e6afa65bdef",
+            "id":"4",
+            "deskripsi": {
+                "bahan" :"Diamond",
+                "tentang":"Simple, mudah dipakai dan tidak ribet, bisa dipakai dengan banyak variasi cantik, menutup dada, nyaman dipakai, ringan, dan lembut. Ukuran : 90 x 105cm"
+            }
+        }
+    ]
+}

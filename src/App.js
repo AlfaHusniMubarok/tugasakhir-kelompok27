@@ -14,13 +14,16 @@ export default function App() {
     <BrowserRouter>
       <header>
         <div className="title">
+          <p> Distro 27</p>
+          </div>
+          <nav>
           <Link className="text" to="/Home">
-            Homeㅤ
+            Home
           </Link>
           <Link className="text" to="/Jilbab">
             Jilbab    
           </Link>
-          <Link className="text" to="/Kemeje">
+          <Link className="text" to="/Kemeja">
             Kemeja  
           </Link>
           <Link className="text" to="/Kaos">
@@ -38,7 +41,7 @@ export default function App() {
           <Link className="text" to="/Sepatu">
             Sepatu  
           </Link>
-        </div>
+          </nav>
       </header>
       <Switch>
         <Route exact path="/" component={Home} />

@@ -4,9 +4,9 @@ body {
 
 header {
   display: flex;
-  background-color: #2a5f28;
+  background-color: #324879;
   justify-content: space-between;
-  padding: 0 40px;
+  /* padding: 0 40px; */
   align-items: center;
   height: 10vh;
   margin-top: 0;
@@ -16,11 +16,11 @@ p {
   margin: 0;
   padding: 0;
 }
-
 .title p {
   color: rgb(255, 255, 255);
   font-weight: bold;
-  font-size: 24px;
+  font-size: 40px;
+  margin-left: 40px;
 }
 
 .text {
@@ -28,10 +28,11 @@ p {
   font-weight: bold;
   color: white;
   text-decoration: none;
+  margin: 0 8px;
 }
 
 .text:hover {
-  color: rgb(97, 251, 123);
+  color: rgb(97, 218, 251);
   cursor: pointer;
 }
 

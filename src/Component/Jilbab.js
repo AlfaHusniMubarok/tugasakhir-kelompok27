@@ -32,7 +32,7 @@ export default function Jilbab() {
     useEffect(() => {
         axios({
             method: "get",
-            url: "http://localhost:3000/Jilbab",
+            url: "http://localhost:3001/Jilbab",
             headers: {
                 accept: "*/*",
             },
@@ -65,7 +65,7 @@ export default function Jilbab() {
                                         height="300"
                                         image={results.img_src}
                                     />
-                                    <CardContent style={{ backgroundColor: '#66FF99' }}>
+                                    <CardContent style={{ backgroundColor: '#89C4F4' }}>
                                         <center>
                                         <Typography variant="h6" style={{ color: 'white',
                                     textShadowColor: 'rgba(0, 0, 0, 0)',

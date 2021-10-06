@@ -5,6 +5,7 @@
             "nama": "Alfa Husni Mubarok",
             "nim": "21120118130064",
             "email": "alfahusnimubarok@gmail.com",
+            "teks" : "Haloo!!!",
             "img": "https://scontent.fsrg3-1.fna.fbcdn.net/v/t1.6435-9/56219900_2214067988685440_7547665296207642624_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=174925&_nc_eui2=AeFlAq0K10pbYuuN8zSXHyZW1YcywsvdbXbVhzLCy91tdkWkY3fjpGQ1YO6WJvoIBxh4eXi0w_lqDSgG6CGhyZ3g&_nc_ohc=LTrtqg0n2S0AX-P-n4I&_nc_ht=scontent.fsrg3-1.fna&oh=2148f12e5051c2bb392979f0d0571dfc&oe=6181AF22"
         },
         {
@@ -12,7 +13,8 @@
             "nama": "Ahmad Hufron",
             "nim": "21120118120028",
             "email": "ahmadhufron64@gmail.com",
-            "img": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+            "teks" : "Haiiii",
+            "img": "https://i.ibb.co/Z2sTzVj/IMG20210627093336.jpg"
         }
     ],
     "Jilbab":[
@@ -54,6 +56,148 @@
             "deskripsi": {
                 "bahan" :"Diamond",
                 "tentang":"Simple, mudah dipakai dan tidak ribet, bisa dipakai dengan banyak variasi cantik, menutup dada, nyaman dipakai, ringan, dan lembut. Ukuran : 90 x 105cm"
+            }
+        }
+    ],
+    "Sepatu" : [
+        {
+            "judul":"Ortuseight Sepatu Sneakers Crux",
+            "harga":"Rp. 399.000,-",
+            "img_src":"https://images.tokopedia.net/img/cache/900/hDjmkQ/2021/9/13/8a9c744f-9fd8-43a1-8952-898ce18b382c.jpg",
+            "id":"1",
+            "deskripsi": {
+                "kategori" :"Sneakers",
+                "size" : "41",
+                "tentang":"Ortuseight Crux merupakan sneakers menggunakan kombinasi antara teknologi, kenyamanan dan kualitas. Dilengkapi dengan teknologi Ortflow yaitu penggunaan material enginereed mesh untuk bagian upper sepatu."
+            }
+        },
+        {
+            "judul":"Ortuseight Sepatu Sneakers Norden",
+            "harga":"Rp. 379.000,-",
+            "img_src":"https://images.tokopedia.net/img/cache/900/hDjmkQ/2021/9/13/0e1c53c0-abaa-4e59-bc0e-79aa67bf4601.jpg",
+            "id":"2",
+            "deskripsi": {
+                "kategori" :"Sneakers",
+                "size" : "41",
+                "tentang":"Ortus Eight Norden merupakan sepatu Sneakers dengan menggunakan  Quick-Fit dengan material pelapis dalam upper sepatu yang menyesuaikan dengan bentuk kaki dan memberikan kenyamanan bagi pemakainya, CumulusFoam yang merupakan midsole berbahan Injection Phylon."
+            }
+        },
+        {
+            "judul":"Geoff Max Culture Navy White",
+            "harga":"Rp. 225.000,-",
+            "img_src":"https://images.tokopedia.net/img/cache/900/VqbcmM/2021/8/27/d3e48a37-e2fe-491c-afb5-c0f8d2937676.jpg",
+            "id":"3",
+            "deskripsi": {
+                "kategori" :"Sneakers",
+                "size" : "40",
+                "tentang":"Geoff Max Culture Navy White memiliki Shoes Material Upper berbahan Canvas dengan sidewall Rubber. Sepatu ini dilengkapi dengan Outsole TPR dan Insole  Merrymes 4mm EVA+AARCH"
+            }
+        },
+        {
+            "judul":"GMX Gavin Dark Teal",
+            "harga":"Rp. 420.900,-",
+            "img_src":"https://images.tokopedia.net/img/cache/900/VqbcmM/2021/7/13/0a79b52a-6462-41c9-808e-e14f2be01482.jpg",
+            "id":"4",
+            "deskripsi": {
+                "kategori" :"Sneakers",
+                "size" : "39",
+                "tentang":"GMX Gavin Dark Teal memiliki Shoes Material Upper dan Heeltab berbahan Canvas dengan Bumper dan Soal Rubber. Sepatu ini dilengkapi dengan Insole Jersey Foam dan Construction Vulcanize"
+            }
+        }
+    ],
+    "Kaos" : [
+        {
+            "judul":"GARAF - KAOS HAPPY",
+            "harga":"Rp. 75.000,-",
+            "img_src":"https://images.tokopedia.net/img/cache/900/VqbcmM/2021/6/18/f2ce687f-0ed6-464f-8274-adf5c23ca655.png",
+            "id":"1",
+            "deskripsi": {
+                "gender":"Unisex",
+                "bahan" :"Cotton combed 30s",
+                "size" : "S M L XL",
+                "gambar":"Sablon"
+            }
+        },
+        {
+            "judul":"Erigo T-Shirt Match Player ",
+            "harga":"Rp. 65.000,-",
+            "img_src":"https://images.tokopedia.net/img/cache/900/hDjmkQ/2021/10/1/a85c2866-f267-4561-bf58-d232644067fc.jpg",
+            "id":"2",
+            "deskripsi": {
+                "gender":"Unisex",
+                "bahan" :"Cotton combed 30s",
+                "size" : "S M L XL",
+                "gambar":"Sablon"
+            }
+        },
+        {
+            "judul":"T-Shirt Erigo Texas ",
+            "harga":"Rp. 65.000,-",
+            "img_src":"https://images.tokopedia.net/img/cache/900/hDjmkQ/2021/10/5/54113da9-0efa-44b7-b1ce-709c26ec396e.jpg",
+            "id":"2",
+            "deskripsi": {
+                "gender":"Unisex",
+                "bahan" :"Cotton combed 30s",
+                "size" : "S M L XL",
+                "gambar":"Sablon"
+            }
+        },
+        {
+            "judul":"Erigo T-Shirt Riding Wheels ",
+            "harga":"Rp. 65.000,-",
+            "img_src":"https://images.tokopedia.net/img/cache/900/hDjmkQ/2021/10/5/b37fb004-58f2-47f8-8659-36c7efbbe04c.jpg",
+            "id":"2",
+            "deskripsi": {
+                "gender":"Unisex",
+                "bahan" :"Cotton combed 30s",
+                "size" : "S M L XL",
+                "gambar":"Sablon"
+            }
+        }
+    ], 
+    "Kemeja" : [
+        {
+            "judul":"Short Shirt Jazlyn Rayon Black",
+            "harga":"Rp. 100.000,-",
+            "img_src":"https://images.tokopedia.net/img/cache/900/VqbcmM/2021/5/4/6bb47736-d3aa-4152-ba76-1927cfee7fc7.jpg",
+            "id":"1",
+            "deskripsi": {
+                "gender":"Pria",
+                "bahan" :"Katun",
+                "size" : "S M L XL"
+            }
+        },
+        {
+            "judul":"Erigo Flannel Nieva Navy",
+            "harga":"Rp. 325.000,-",
+            "img_src":"https://images.tokopedia.net/img/cache/900/hDjmkQ/2021/10/6/62963f33-5cca-4172-bceb-9375b9d506d3.jpg",
+            "id":"2",
+            "deskripsi": {
+                "gender":"Unisex",
+                "bahan" :"Katun",
+                "size" : "S M L XL"
+            }
+        },
+        {
+            "judul":"Erigo Flannel Zerach Black",
+            "harga":"Rp. 325.000,-",
+            "img_src":"https://images.tokopedia.net/img/cache/900/hDjmkQ/2021/10/6/61010ac3-234e-49da-a038-cc5c1d963dfc.jpg",
+            "id":"3",
+            "deskripsi": {
+                "gender":"Unisex",
+                "bahan" :"Katun",
+                "size" : "S M L XL"
+            }
+        },
+        {
+            "judul":"Erigo Flannel Eory Red",
+            "harga":"Rp. 325.000,-",
+            "img_src":"https://images.tokopedia.net/img/cache/900/hDjmkQ/2021/10/6/fa89e66f-88d0-4c9d-b748-a234664c051d.jpg",
+            "id":"4",
+            "deskripsi": {
+                "gender":"Unisex",
+                "bahan" :"Katun",
+                "size" : "S M L XL"
             }
         }
     ]

@@ -32,7 +32,7 @@ export default function Kemeja() {
     useEffect(() => {
         axios({
             method: "get",
-            url: "http://localhost:3001/Kemeja",
+            url: "http://localhost:3000/Kemeja",
             headers: {
                 accept: "*/*",
             },

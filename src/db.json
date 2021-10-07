@@ -5,7 +5,7 @@
             "nama": "Alfa Husni Mubarok",
             "nim": "21120118130064",
             "email": "alfahusnimubarok@gmail.com",
-            "teks" : "Haloo!!!",
+            "teks" : "Haloo... Selamat datang di Sistem Informasi Distro Kelompok 27, distro ini menyediakan berbagai macam outfit untuk anda, Semoga anda tertarik dan berminta untuk membelinya. Terimakasih atas kunjungannya :)",
             "img": "https://scontent.fsrg3-1.fna.fbcdn.net/v/t1.6435-9/56219900_2214067988685440_7547665296207642624_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=174925&_nc_eui2=AeFlAq0K10pbYuuN8zSXHyZW1YcywsvdbXbVhzLCy91tdkWkY3fjpGQ1YO6WJvoIBxh4eXi0w_lqDSgG6CGhyZ3g&_nc_ohc=LTrtqg0n2S0AX-P-n4I&_nc_ht=scontent.fsrg3-1.fna&oh=2148f12e5051c2bb392979f0d0571dfc&oe=6181AF22"
         },
         {
@@ -13,7 +13,7 @@
             "nama": "Ahmad Hufron",
             "nim": "21120118120028",
             "email": "ahmadhufron64@gmail.com",
-            "teks" : "Haiiii",
+            "teks" : "Haii... Selamat datang di Sistem Informasi Distro Kelompok 27, distro ini menyediakan berbagai macam outfit untuk anda, Semoga anda tertarik dan berminta untuk membelinya. Terimakasih atas kunjungannya :)",
             "img": "https://i.ibb.co/Z2sTzVj/IMG20210627093336.jpg"
         }
     ],
@@ -61,7 +61,7 @@
     ],
     "Sepatu" : [
         {
-            "judul":"Ortuseight Sepatu Sneakers Crux",
+            "judul":"Ortuseight Sneakers Crux",
             "harga":"Rp. 399.000,-",
             "img_src":"https://images.tokopedia.net/img/cache/900/hDjmkQ/2021/9/13/8a9c744f-9fd8-43a1-8952-898ce18b382c.jpg",
             "id":"1",
@@ -72,7 +72,7 @@
             }
         },
         {
-            "judul":"Ortuseight Sepatu Sneakers Norden",
+            "judul":"Ortuseight Sneakers Norden",
             "harga":"Rp. 379.000,-",
             "img_src":"https://images.tokopedia.net/img/cache/900/hDjmkQ/2021/9/13/0e1c53c0-abaa-4e59-bc0e-79aa67bf4601.jpg",
             "id":"2",
@@ -197,6 +197,148 @@
             "deskripsi": {
                 "gender":"Unisex",
                 "bahan" :"Katun",
+                "size" : "S M L XL"
+            }
+        }
+    ],
+    "Celana" : [
+        {
+            "judul":"Fichino Pants Black Gatsby",
+            "harga":"Rp. 130.000,-",
+            "img_src":"https://cf.shopee.co.id/file/776d213bc4504f3c516596d85cc221f5",
+            "id":"1",
+            "deskripsi": {
+                "gender":"Pria",
+                "bahan" :"Chino",
+                "size" : "29 | 30 | 31 | 32 | 33 | 34 | 35"
+            }
+        },
+        {
+            "judul":"Monellina C.GANA",
+            "harga":"Rp. 75.000,-",
+            "img_src":"https://cf.shopee.co.id/file/face6fdb2f471c89b23d72d60c5c4fba",
+            "id":"2",
+            "deskripsi": {
+                "gender":"Wanita",
+                "bahan" :"Hyget",
+                "size" : "26 | 27 | 28 | 29 | 30"
+            }
+        },
+        {
+            "judul":"Erigo Chino Pants Jacob Grey",
+            "harga":"Rp. 125.000,-",
+            "img_src":"https://cf.shopee.co.id/file/aa43c8fc86a2a6c06c0dae7bca33c0bc",
+            "id":"3",
+            "deskripsi": {
+                "gender":"Pria",
+                "bahan" :"Chino",
+                "size" : "28 | 30 | 32 | 34 | 36"
+            }
+        },
+        {
+            "judul":"Cammomile 2102005 LG909",
+            "harga":"Rp. 100.000,-",
+            "img_src":"https://cf.shopee.co.id/file/4ddcd826efdaa59ab1c41cbcfbda7a83",
+            "id":"4",
+            "deskripsi": {
+                "gender":"Wanita",
+                "bahan" :"Katun",
+                "size" : "All size | Lingkar Pinggang 64Cm / Lingkar Pinggang Maximal 84Cm | Lingkar Pinggul 100Cm / Lingkar Paha 54Cm | Panjang Celana 90Cm"
+            }
+        }
+    ],
+    "Rok" : [
+        {
+            "judul":"Eiza Rok Payung Plain 8829",
+            "harga":"Rp. 170.000,-",
+            "img_src":"https://cf.shopee.co.id/file/bacb281b113c238b9b6a488c6ddaff63",
+            "id":"1",
+            "deskripsi": {
+                "merk":"Duapola",
+                "bahan" :"Crepe stretch yang adem, lembut dan tidak menerawang",
+                "size" : "S M L XL"
+            }
+        },
+        {
+            "judul":"Rok Panjang Rania Army",
+            "harga":"Rp. 80.000,-",
+            "img_src":"https://cf.shopee.co.id/file/2026ed397708038232338f891e46d329",
+            "id":"2",
+            "deskripsi": {
+                "merk":"Ie. De Mode ",
+                "bahan" :"Crepe stretch yang adem, lembut dan tidak menerawang",
+                "size" : "All size sampai dengan BB 75kg | Pinggang: 56-106 cm, Panggul: 140 cm, Panjang: 94 cm"
+            }
+        },
+        {
+            "judul":"Trojan Black Long Skirt",
+            "harga":"Rp. 75.000,-",
+            "img_src":"https://cf.shopee.co.id/file/2616b7aaf0db836727945f7a14e9bd38",
+            "id":"3",
+            "deskripsi": {
+                "merk":"Logo Jeans",
+                "bahan" :"Lacoste",
+                "size" : "S M L XL"
+            }
+        },
+        {
+            "judul":"Rumi Blue Gingham Skirt",
+            "harga":"Rp. 299.000,-",
+            "img_src":"https://cf.shopee.co.id/file/5381fa13838478de8356330639494ace",
+            "id":"4",
+            "deskripsi": {
+                "merk":"Hijabchic",
+                "bahan" :"Cotton Soft & comfy fabric,textured, non-stretch, non- transparent ",
+                "size" : "S M L XL"
+            }
+        }
+    ],
+    "Outer" : [
+        {
+            "judul":"Kardigan Jade Simple Kimono",
+            "harga":"Rp. 130.000,-",
+            "img_src":"https://cf.shopee.co.id/file/41cec08585eeccc8d40e31bcfa09dbfc",
+            "id":"1",
+            "deskripsi": {
+                "merk":"Berrybenka",
+                "gender":"Wanita",
+                "bahan" :"Polyester",
+                "size" : "All size | Lebar Bahu : 61cm, Lingkar Dada : 130cm, Panjang Tangan : 27cm, Lingkar Lengan : 40cm, Lingkar Pinggang : 126cm, Panjang : 73 cm"
+            }
+        },
+        {
+            "judul":"Athletica - Wyman Black",
+            "harga":"Rp. 180.000,-",
+            "img_src":"https://cf.shopee.co.id/file/eec215a8e1bd0df87df0844d1ca9cabb",
+            "id":"2",
+            "deskripsi": {
+                "merk":"Athletica",
+                "gender":"Unisex",
+                "bahan" :"Cotton Fleece",
+                "size" : "S M L XL"
+            }
+        },
+        {
+            "judul":"Syakil Plit M14408 R30S2",
+            "harga":"Rp. 45.000,-",
+            "img_src":"https://cf.shopee.co.id/file/207064569de3f03e14274670549da4c5",
+            "id":"3",
+            "deskripsi": {
+                "merk":"Mybamus",
+                "gender":"Wanita",
+                "bahan" :"Lacos",
+                "size" : "All size sampai dengan BB 60kg"
+            }
+        },
+        {
+            "judul":"Skelly Jaket Baseball",
+            "harga":"Rp. 200.000,-",
+            "img_src":"https://cf.shopee.co.id/file/e8728c682ce8ff3d6a06bd043b34e51a",
+            "id":"4",
+            "deskripsi": {
+                "merk":"Skelly",
+                "gender":"Unisex",
+                "bahan" :"Polyester",
                 "size" : "S M L XL"
             }
         }

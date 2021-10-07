@@ -32,7 +32,7 @@ export default function Sepatu() {
     useEffect(() => {
         axios({
             method: "get",
-            url: "http://localhost:3001/Sepatu",
+            url: "http://localhost:3000/Sepatu",
             headers: {
                 accept: "*/*",
             },

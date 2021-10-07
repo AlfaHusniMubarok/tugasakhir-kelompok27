@@ -32,7 +32,7 @@ export default function Jilbab() {
     useEffect(() => {
         axios({
             method: "get",
-            url: "http://localhost:3001/Jilbab",
+            url: "http://localhost:3000/Jilbab",
             headers: {
                 accept: "*/*",
             },
@@ -51,7 +51,7 @@ export default function Jilbab() {
         <div style={{ marginTop: 20 }}>
 
             <center>
-            <h1 className="text-2xl font-extrabold tracking-tight text-gray-900">Daftar Jilbab</h1>
+            <h1 className="text-3xl font-extrabold tracking-tight text-gray-900" style={{fontFamily:"Roboto", letterSpacing:"1px"}}>Daftar Jilbab</h1>
             </center>
 
             <Grid container md={11} spacing={4} style={{ marginTop: "50px", marginLeft: "auto", marginRight: "auto" }}>
@@ -110,7 +110,7 @@ function Detail() {
             </Typography>
             </center>
             <Typography id="modal-modal-deskripsi" sx={{ mt: 1 }}>
-                Produk: {info.deskripsi.tentang}
+                Deskripsi: {info.deskripsi.tentang}
             </Typography>
         </Box>
     );

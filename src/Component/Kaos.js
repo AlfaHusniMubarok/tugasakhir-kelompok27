@@ -32,7 +32,7 @@ export default function Kaos() {
     useEffect(() => {
         axios({
             method: "get",
-            url: "http://localhost:3001/Kaos",
+            url: "http://localhost:3000/Kaos",
             headers: {
                 accept: "*/*",
             },
@@ -62,7 +62,7 @@ export default function Kaos() {
                                 <CardActionArea onClick={() => { setOpen(true); setJudul(results.judul); setDeskripsi(results.deskripsi) }}>
                                     <CardMedia
                                         component="img"
-                                        height="300"
+                                        height="200"
                                         image={results.img_src}
                                         style={{maxHeight:400}}
                                     />

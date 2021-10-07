@@ -25,7 +25,7 @@ export default class Home extends Component {
     componentDidMount() {
         axios({
             method: "get",
-            url: "http://localhost:3001/anggota",
+            url: "http://localhost:3000/anggota",
             headers: {
                 accept: "*/*",
             },
